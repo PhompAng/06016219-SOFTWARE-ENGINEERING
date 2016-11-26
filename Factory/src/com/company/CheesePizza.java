@@ -12,4 +12,9 @@ public class CheesePizza extends Pizza {
     public String toString() {
         return "Cheese";
     }
+
+    @Override
+    public void prepare() {
+        System.out.println("Preparing (Cheese) " + this.name);
+    }
 }

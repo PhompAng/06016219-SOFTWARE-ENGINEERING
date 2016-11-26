@@ -12,4 +12,9 @@ public class HawaiianPizza extends Pizza {
     public String toString() {
         return "Hawaiian";
     }
+
+    @Override
+    public void prepare() {
+        System.out.println("Preparing (Hawiian) " + this.name);
+    }
 }

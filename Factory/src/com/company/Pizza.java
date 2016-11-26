@@ -7,10 +7,6 @@ public abstract class Pizza {
     protected String name;
     public Pizza(String name) {
         this.name = name;
-        prepare();
-        bake();
-        cut();
-        box();
     }
     public void prepare() {
         System.out.println("Preparing " + this.name);
