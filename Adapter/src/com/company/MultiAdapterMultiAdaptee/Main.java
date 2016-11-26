@@ -1,4 +1,4 @@
-package com.company.MultiAdapter;
+package com.company.MultiAdapterMultiAdaptee;
 
 public class Main {
 

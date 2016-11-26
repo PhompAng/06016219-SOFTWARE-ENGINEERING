@@ -1,4 +1,4 @@
-package com.company.MultiAdapter;
+package com.company.MultiAdapterMultiAdaptee;
 
 /**
  * Created by phompang on 11/26/2016 AD.
