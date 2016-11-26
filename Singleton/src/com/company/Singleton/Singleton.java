@@ -1,4 +1,4 @@
-package com.company;
+package com.company.Singleton;
 
 import java.util.Random;
 
